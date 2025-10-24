@@ -112,7 +112,16 @@
       "icon": "User",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761297389243_he37u5ia4",
+          "title": "Fuheng的主页",
+          "href": "https://fuheng.vip",
+          "description": "访问 fuheng.vip",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fuheng.vip",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
