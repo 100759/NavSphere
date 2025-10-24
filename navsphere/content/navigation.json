@@ -107,6 +107,15 @@
       "enabled": true
     },
     {
+      "id": "1761297322249",
+      "title": "旗下网站",
+      "icon": "User",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -1307,15 +1316,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1761297322249",
-      "title": "旗下网站",
-      "icon": "User",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
