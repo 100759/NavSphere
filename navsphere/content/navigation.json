@@ -120,6 +120,14 @@
           "description": "访问 fuheng.vip",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=fuheng.vip",
           "enabled": true
+        },
+        {
+          "id": "site_1761298296676_hlw51bvlq",
+          "title": "08Mail",
+          "href": "https://mail.08.ac.cn/inbox",
+          "description": "08教育邮箱，ac.cn.",
+          "icon": "/assets/favicon_1761298245704.png",
+          "enabled": true
         }
       ],
       "subCategories": []
